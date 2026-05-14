@@ -1,0 +1,98 @@
+[
+  {
+    "command": "open explorer",
+    "time": "14/5/2026, 12:14:23 pm"
+  },
+  {
+    "command": "open Chrome",
+    "time": "14/5/2026, 12:14:33 pm"
+  },
+  {
+    "command": "open Chrome",
+    "time": "14/5/2026, 12:20:07 pm"
+  },
+  {
+    "command": "how much RAM is free",
+    "time": "14/5/2026, 12:34:25 pm"
+  },
+  {
+    "command": "open apps for coding",
+    "time": "14/5/2026, 12:34:47 pm"
+  },
+  {
+    "command": "open apps for coding",
+    "time": "14/5/2026, 12:38:18 pm"
+  },
+  {
+    "command": "how much ram is free",
+    "time": "14/5/2026, 12:38:30 pm"
+  },
+  {
+    "command": "study mode",
+    "time": "14/5/2026, 12:45:20 pm"
+  },
+  {
+    "command": "study mode",
+    "time": "14/5/2026, 12:45:44 pm"
+  },
+  {
+    "command": "coding mode",
+    "time": "14/5/2026, 12:46:41 pm"
+  },
+  {
+    "command": "battery percentage",
+    "time": "14/5/2026, 12:48:44 pm"
+  },
+  {
+    "command": "coding mode",
+    "time": "14/5/2026, 12:55:10 pm"
+  },
+  {
+    "command": "entertainment mode",
+    "time": "14/5/2026, 1:00:33 pm"
+  },
+  {
+    "command": "scheduled automation",
+    "time": "14/5/2026, 1:01:16 pm"
+  },
+  {
+    "command": "screenshot capture",
+    "time": "14/5/2026, 1:01:42 pm"
+  },
+  {
+    "command": "volume control",
+    "time": "14/5/2026, 1:02:39 pm"
+  },
+  {
+    "command": "take screenshot",
+    "time": "14/5/2026, 1:04:07 pm"
+  },
+  {
+    "command": "open Notepad",
+    "time": "14/5/2026, 1:13:26 pm"
+  },
+  {
+    "command": "search AI job",
+    "time": "14/5/2026, 1:16:52 pm"
+  },
+  {
+    "command": "react tutorial",
+    "time": "14/5/2026, 1:17:04 pm"
+  },
+  {
+    "command": "shutdown",
+    "time": "14/5/2026, 1:17:30 pm"
+  },
+  {
+    "command": "volume up",
+    "time": "14/5/2026, 1:17:58 pm"
+  },
+  {
+    "command": "volume down",
+    "time": "14/5/2026, 1:18:05 pm"
+  },
+  {
+    "command": "scheduled automation",
+    "time": "14/5/2026, 1:18:18 pm"
+  }
+]
