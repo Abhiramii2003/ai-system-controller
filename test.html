@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>AI Controller Test</title>
+</head>
+<body>
+
+<h2>Test Command</h2>
+
+<input type="text" id="command" placeholder="Enter command">
+<button onclick="sendCommand()">Send</button>
+
+<script>
+function sendCommand() {
+  const command = document.getElementById("command").value;
+
+  fetch("http://localhost:5000/command", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify({ command })
+  })
+  .then(res => res.json())
+  .then(data => alert(JSON.stringify(data)))
+  .catch(err => console.error(err));
+}
+</script>
+
+</body>
+</html>
